@@ -1,0 +1,17 @@
+_id,Essn,Pno,Hours
+ObjectId("5dea4c3b7ce950247c8daab1"),123456789,1,32.5
+ObjectId("5dea4c5f7ce950247c8daab2"),123456789,2,7.5
+ObjectId("5dea4c747ce950247c8daab3"),666884444,3,40.0
+ObjectId("5dea4c8a7ce950247c8daab4"),453453453,1,20.0
+ObjectId("5dea4c9e7ce950247c8daab5"),453453453,2,20.0
+ObjectId("5dea4d927ce950247c8daab6"),333445555,2,10.0
+ObjectId("5dea4db17ce950247c8daab7"),333445555,3,10.0
+ObjectId("5dea4dce7ce950247c8daab8"),333445555,10,10.0
+ObjectId("5dea4def7ce950247c8daab9"),333445555,20,10.0
+ObjectId("5dea4e047ce950247c8daaba"),999887777,30,30.0
+ObjectId("5dea4e197ce950247c8daabb"),999887777,10,10.0
+ObjectId("5dea4e2c7ce950247c8daabc"),987987987,10,35.0
+ObjectId("5dea4e3f7ce950247c8daabd"),987987987,30,5.0
+ObjectId("5dea4e517ce950247c8daabe"),987654321,30,20.0
+ObjectId("5dea4e657ce950247c8daabf"),987654321,20,15.0
+ObjectId("5dea4e797ce950247c8daac0"),888665555,20,16.0

@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5dea26317ce950247c8daa92"},"Fname":"John","Minit":"B","Lname":"Smith","Ssn":"123456789","Bdate":"1965-01-09","Address":"731 Fondren, Houston TX","Sex":"M","Salary":"30000","Super_ssn":"3334455555","Dno":"5"}
+{"_id":{"$oid":"5dea27b97ce950247c8daa95"},"Fname":"Franklin","Minit":"T","Lname":"Wong","Ssn":"333445555","Bdate":"1965-12-08","Address":"Voss, Houston TX","Sex":"M","Salary":"40000","Super_ssn":"888665555","Dno":"5"}
+{"_id":{"$oid":"5dea28487ce950247c8daa96"},"Fname":"Alicia","Minit":"J","Lname":"Zelaya","Ssn":"999887777","Bdate":"1968-01-19","Address":"3321 Castle, Spring TX","Sex":"F","Salary":"25000","Supper_ssn":"987654321","Dno":"4"}
+{"_id":{"$oid":"5dea29057ce950247c8daa97"},"Fname":"Jennifer","Minit":"S","Lname":"Wallace","Ssn":"987654321","Bdate":"1941-06-20","Address":"291 Berry, Bellaire TX","Sex":"F","Salary":"43000","Supper_ssn":"888665555","Dno":"4"}
+{"_id":{"$oid":"5dea29997ce950247c8daa98"},"Fname":"Ramesh","Minit":"K","Lname":"Narayan","Ssn":"666884444","Bdate":"1962-09-15","Address":"975 Fire Oak, Humble TX","Sex":"M","Salary":"38000","Supper_ssn":"333445555","Dno":"5"}
+{"_id":{"$oid":"5dea29f97ce950247c8daa99"},"Fname":"Joyce","Minit":"A","Lname":"English","Ssn":"453453453","Bdate":"1972-07-31","Address":"5631 Rice, Houston TX","Sex":"F","Saary":"25000","Super_ssn":"333445555","Dno":"5"}
+{"_id":{"$oid":"5dea2a5e7ce950247c8daa9a"},"Fname":"Ahmad","Minit":"V","Lname":"Jabbar","Ssn":"987987987","Bdate":"1969-03-29","Address":"980 Dallas, Houston TX","Sex":"M","Salary":"25000","Super_ssn":"987654321","Dno":"4"}
+{"_id":{"$oid":"5dea2ad27ce950247c8daa9b"},"Fname":"James","Minit":"E","Lname":"Borg","Ssn":"888665555","Bdate":"1937-11-10","Address":"450 Stone, Houston TX","Sex":"M","Super_ssn":"null","Dno":"1"}

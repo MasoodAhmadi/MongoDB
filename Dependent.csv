@@ -1,0 +1,8 @@
+_id,Essn,Dependent_name,Sex,Bdate,Relationship
+ObjectId("5dea4a257ce950247c8daaaa"),334455555,Alice,F,1986-04-04,Daughter
+ObjectId("5dea4add7ce950247c8daaab"),333445555,Theodore,M,1983-10-25,Son
+ObjectId("5dea4b127ce950247c8daaac"),333445555,Joy,,1958-05-03,Spouse
+ObjectId("5dea4b407ce950247c8daaad"),987654321,Abner,M,1942-02-28,Spouse
+ObjectId("5dea4b707ce950247c8daaae"),123456789,Michael,M,1988-01-04,Son
+ObjectId("5dea4b997ce950247c8daaaf"),123456789,Alice,F,1988-12-30,Daughter
+ObjectId("5dea4bc97ce950247c8daab0"),123456789,Elizabeth,F,1967-05-05,Spouse

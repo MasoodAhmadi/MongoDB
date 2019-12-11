@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5dea4a257ce950247c8daaaa"},"Essn":"334455555","Dependent_name":"Alice","Sex":"F","Bdate":"1986-04-04","Relationship":"Daughter"}
+{"_id":{"$oid":"5dea4add7ce950247c8daaab"},"Essn":"333445555","Dependent_name":"Theodore","Sex":"M","Bdate":"1983-10-25","Relationship":"Son"}
+{"_id":{"$oid":"5dea4b127ce950247c8daaac"},"Essn":"333445555","Dependent_name":"Joy","sex":"F","Bdate":"1958-05-03","Relationship":"Spouse"}
+{"_id":{"$oid":"5dea4b407ce950247c8daaad"},"Essn":"987654321","Dependent_name":"Abner","Sex":"M","Bdate":"1942-02-28","Relationship":"Spouse"}
+{"_id":{"$oid":"5dea4b707ce950247c8daaae"},"Essn":"123456789","Dependent_name":"Michael","Sex":"M","Bdate":"1988-01-04","Relationship":"Son"}
+{"_id":{"$oid":"5dea4b997ce950247c8daaaf"},"Essn":"123456789","Dependent_name":"Alice","Sex":"F","Bdate":"1988-12-30","Relationship":"Daughter"}
+{"_id":{"$oid":"5dea4bc97ce950247c8daab0"},"Essn":"123456789","Dependent_name":"Elizabeth","Sex":"F","Bdate":"1967-05-05","Relationship":"Spouse"}

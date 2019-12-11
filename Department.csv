@@ -1,0 +1,4 @@
+_id,Dname,Dnumber,Mgr_ssn,Mgr_start_date
+ObjectId("5dea2b5f7ce950247c8daa9c"),Research,5,333445555,1988-05-22
+ObjectId("5dea2bca7ce950247c8daa9d"),Administration,4,987654321,1995-01-01
+ObjectId("5dea2bfc7ce950247c8daa9e"),Headquarters,1,888665555,1981-06-19

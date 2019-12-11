@@ -1,0 +1,7 @@
+_id,Pname,Pnumber,Plocation,Dnum
+ObjectId("5dea47d27ce950247c8daa9f"),Productx,1,Bellaire,5
+ObjectId("5dea48247ce950247c8daaa0"),ProductY,2,,5
+ObjectId("5dea48427ce950247c8daaa1"),ProductZ,3,Houston,5
+ObjectId("5dea487a7ce950247c8daaa2"),Computerization,10,Stafford,4
+ObjectId("5dea48b27ce950247c8daaa3"),Reorganization,20,Houston,1
+ObjectId("5dea48fb7ce950247c8daaa4"),Newbenefits,30,Stafford,4
